@@ -1,0 +1,30 @@
+shape,Explanation,Probability,Group together
+cylinder,,,5
+light,"Drone, Rocket",40%,
+circle,Satelite,60%,
+sphere,Starlink,50%,
+disk,Starlink,50%,
+fireball,Meteor,20%,
+unknown,,,1
+oval,Starlink,50%,
+other,,,1
+cigar,Starlink,50%,5
+rectangle,,,
+chevron,,,4
+triangle,,,3
+formation,Starlink,70%,
+delta,,,3
+changing,,,2
+egg,Starlink,50%,
+flash,Aircraft,40%,
+diamond,,,
+cross,,,
+teardrop,Starlink,50%,
+cone,,,
+pyramid,,,3
+round,"Planet, Stars",30%,
+crescent,,,4
+flare,Meteor,20%,
+hexagon,,,
+dome,,,
+changed,,,2
